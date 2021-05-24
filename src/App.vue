@@ -1,7 +1,7 @@
 <template>
-  <div>hi</div>
-  <Frank/>
-  <router-view />
+  <div>导航栏 | <router-link to="/">frank</router-link></div>
+
+  <router-view/>
 </template>
 
 <script>

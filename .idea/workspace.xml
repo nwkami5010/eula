@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7021c073-e036-437a-8c0b-8afe1e100a49" name="Default Changelist" comment="" />
+    <list default="true" id="7021c073-e036-437a-8c0b-8afe1e100a49" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -22,6 +29,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1swJsYWUUn4RammhLRLoFcGQd7S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621777925819</updated>
       <workItem from="1621777926872" duration="4787000" />
-      <workItem from="1621835286491" duration="1634000" />
+      <workItem from="1621835286491" duration="4526000" />
     </task>
     <servers />
   </component>
@@ -52,10 +60,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="893" y="188" width="998" height="852" key="SettingsEditor" timestamp="1621780013781">
+    <state x="1084" y="427" key="Github.ShareDialog" timestamp="1621837272618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="893" y="188" width="998" height="852" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1621780013781" />
+    <state x="1084" y="427" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621837272618" />
+    <state x="1069" y="252" key="Github.UntrackedFilesDialog" timestamp="1621837295557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1069" y="252" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621837295557" />
+    <state x="893" y="188" width="998" height="852" key="SettingsEditor" timestamp="1621838523557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="893" y="188" width="998" height="852" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1621838523557" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1621779862659">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
